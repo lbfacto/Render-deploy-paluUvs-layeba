@@ -1,0 +1,26 @@
+[
+    0: {
+        "model name": "LR"
+        "model_accuracy": 0.9741935483870968 "standard deviation": 0.053591121696245636
+    }
+    1: {
+        "model name": "LDA"
+        "model_accuracy": 0.8201612903225806 "standard deviation": 0.2869211586842776
+    }
+    2: {
+        "model name": "KNN"
+        "model_accuracy": 0.835405192761605 "standard deviation": 0.18894785748873252
+    }
+    3: {
+        "model name": "CART"
+        "model_accuracy": 0.9701612903225806 "standard deviation": 0.08951612903225804
+    }
+    4: {
+        "model name": "NB"
+        "model_accuracy": 0.8532258064516128 "standard deviation": 0.22623231730763146
+    }
+    5: {
+        "model name": "SVM"
+        "model_accuracy": 0.9766129032258064 "standard deviation": 0.05592496273414775
+    }
+]
